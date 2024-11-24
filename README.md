@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I’m Vladana 👋
 
-<!--
-**vladanaa1/vladanaa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 💻 **Software Engineering Student** at the University of Belgrade, passionate about **systems programming**, **machine learning**, and **web development**.  
+- 📚 Always exploring new technologies and solving challenging problems.
+- 🏋️‍♀️ National **powerlifting competitor** and junior national record holder.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools  
+- **Languages**: C, C++, Java, Python, JavaScript  
+- **Frameworks**: Spring Boot, Django, Angular  
+- **Tools**: Git, Docker, OpenMP, Cygwin  
+- **Databases**: MySQL, SQLite
+
+---
+
+### 📂 My Projects  
+- 🌟 **[Mini Kernel (RISC-V)](https://github.com/vladanaa1/mini-kernel)**:  
+   A custom kernel with features like threads, semaphores, and memory management.  
+- 📚 **[Academic Repository](https://github.com/vladanaa1/faculty-work)**:  
+   Notes, projects, and exercises from my studies, organized by subject.
+
+---
+
+
+### 💌 Let's Connect  
+- 📧 Email: [vladanababic@outlook.com]  
+
